@@ -1,0 +1,15 @@
+disease_name,10,20,30,40,50
+Breast Neoplasms,8.0,16.0,23.0,31.0,40.0
+Colon Neoplasms,10.0,18.0,26.0,35.0,42.0
+Colonic Neoplasms,8.0,15.0,25.0,32.0,38.0
+Esophageal Neoplasms,10.0,19.0,28.0,38.0,47.0
+Glioblastoma,4.0,7.0,15.0,19.0,24.0
+Head and Neck Neoplasms,3.0,10.0,12.0,14.0,17.0
+"Carcinoma, Hepatocellular",2.0,5.0,7.0,7.0,8.0
+Lung Neoplasms,9.0,16.0,22.0,29.0,33.0
+Lymphoma,9.0,19.0,26.0,36.0,45.0
+Medulloblastoma,6.0,10.0,12.0,15.0,20.0
+Meningioma,1.0,3.0,4.0,6.0,9.0
+Multiple Myeloma,1.0,5.0,6.0,9.0,10.0
+Prostate Neoplasms,10.0,18.0,27.0,36.0,44.0
+Kidney Neoplasms,8.0,17.0,26.0,33.0,42.0
